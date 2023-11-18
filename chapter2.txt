@@ -4,3 +4,5 @@ Things learnt in git till now:
 3.git commit with a message to add to add to repository.
 4.git diff to know differences between current and last version of the file.
 5.git checkout to go back to last version.
+6.git status to check the files in staging area.
+7.git log to check the commits done till now.
