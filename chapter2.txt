@@ -1,1 +1,6 @@
-This is my second chapter...
+Things learnt in git till now:
+1.git init to create a local git repository in this directory.
+2.git add to add files to staging area.
+3.git commit with a message to add to add to repository.
+4.git diff to know differences between current and last version of the file.
+5.git checkout to go back to last version.
